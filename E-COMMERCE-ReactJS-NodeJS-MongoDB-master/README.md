@@ -1,3 +1,13 @@
+A full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a seamless platform for artists to showcase their paintings and for users to browse, purchase, and support artwork from anywhere.
+
+## Usage
+
+Register as a user or artist.
+
+Explore the gallery or search for paintings.
+
+Add paintings to your cart and checkout.
+
 ## COMMANDS FRONTEND
 
 - cd frontend
